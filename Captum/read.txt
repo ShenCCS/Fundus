@@ -1,1 +1,2 @@
-
+HTN =0 --> hyperlipidemia = 0, BMI < 24, Year < 10, Age < 65, Hb1Ac < 7..0
+HTN =1 --> hyperlipidemia = 1, BMI >= 24, Year >= 10, Age >= 65, Hb1Ac >= 7..0
